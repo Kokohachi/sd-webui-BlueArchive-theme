@@ -20,7 +20,7 @@ Hasn`t been released yet.
 - Hyakkiyako (百鬼夜行連合学院)
 - Red Winter (レッドウィンター連邦学園)
 - Arius (アリウス分校)
-- Federal characters Council (連邦生徒会)
+- Federal Students Council (連邦生徒会)
 - Shan hai jing (山海経高級中学校)
 - Gematria (ゲマトリア)
 - Arona & Plana (アロナ・プラナ)
