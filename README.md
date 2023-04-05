@@ -10,7 +10,7 @@ Hasn`t been released yet.
 
 ## Themes to be provided
  
-### Students from:
+### characters from:
 - Abydos (アビドス高等学校)
 - Millenium (ミレニアムサイエンススクール)
 - Gehenna (ゲヘナ学園)
@@ -20,5 +20,5 @@ Hasn`t been released yet.
 - Hyakkiyako (百鬼夜行連合学院)
 - Red Winter (レッドウィンター連邦学園)
 - Arius (アリウス分校)
-- Federal Students Council (連邦生徒会)
+- Federal characters Council (連邦生徒会)
 - Shan hai jing (山海経高級中学校)
