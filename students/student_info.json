@@ -1,0 +1,1319 @@
+{
+    "Abydos": [
+        {
+            "en": "Hoshino",
+            "jp": "ホシノ",
+            "css": [
+                {
+                    "default": "hoshino.css",
+                    "swimsuit": "hoshino_swimsuit.css",
+                    "past": "hoshino_past.css"
+
+                }
+            ]
+        },
+        {
+            "en": "Shiroko",
+            "jp": "シロコ",
+            "css": [
+                {
+                    "default": "shiroko.css",
+                    "riding": "shiroko_riding.css"
+                }
+            ]
+        },
+        {
+            "en": "Serika",
+            "jp": "セリカ",
+            "css": [
+                {
+                    "default": "serika.css",
+                    "new year": "serika_new_year.css"
+                }
+            ]
+        },
+        {
+            "en": "Nonomi",
+            "jp": "ノノミ",
+            "css": [
+                {
+                    "default": "nonomi.css",
+                    "swimsuit": "swimsuit.css"
+                }
+            ]
+        },
+        {
+            "en": "Ayane",
+            "jp": "アヤネ",
+            "css": [
+                {
+                    "default": "ayane.css",
+                    "swimsuit": "ayane_swimsuit.css"
+                }
+            ]
+        }
+
+    ],
+    "Gehena": [
+        {
+            "en": "Iroha",
+            "jp": "イロハ",
+            "css": [
+                {
+                    "default": "iroha.css"
+                }
+            ]
+        },
+        {
+            "en": "Hina",
+            "jp": "ヒナ",
+            "css": [
+                {
+                    "default": "hina.css",
+                    "swimsuit": "hina_swimsuit.css"
+                }
+            ]
+        },
+        {
+            "en": "Ako",
+            "jp": "アコ",
+            "css": [
+                {
+                    "default": "ako.css"
+                }
+            ]
+        },
+        {
+            "en": "Iori",
+            "jp": "イオリ",
+            "css": [
+                {
+                    "default": "iori.css",
+                    "swimsuit": "iroi_swimsuit.css"
+                }
+            ]
+        },
+        {
+            "en": "Chinatsu",
+            "jp": "チナツ",
+            "css": [
+                {
+                    "default": "Chinatsu.css",
+                    "hot spring": "chinatsu_hot_spring.css"
+                }
+            ]
+        },
+        {
+            "en": "Aru",
+            "jp": "アル",
+            "css": [
+                {
+                    "default": "aru.css",
+                    "new year": "aru_new_year.css"
+                }
+            ]
+        },
+        {
+            "en": "Mutsuki",
+            "jp": "ムツキ",
+            "css": [
+                {
+                    "default": "mutsuki.css",
+                    "new year": "mutsuki_new_year.css"
+                }
+            ]
+        },
+        {
+            "en": "Kayoko",
+            "jp": "カヨコ",
+            "css": [
+                {
+                    "default": "kayoko.css"
+                }
+            ]
+        },
+        {
+            "en": "Haruka",
+            "jp": "ハルカ",
+            "css": [
+                {
+                    "default": "haruka.css"
+                }
+            ]
+        },
+        {
+            "en": "Haruna",
+            "jp": "ハルナ",
+            "css": [
+                {
+                    "default": "haruna.css",
+                    "new year": "haruna_new_year.css"
+                }
+            ]
+        },
+        {
+            "en": "Junko",
+            "jp": "ジュンコ",
+            "css": [
+                {
+                    "default": "junko.css",
+                    "new year": "junko_new_year.css"
+                }
+            ]
+        },
+        {
+            "en": "Izumi",
+            "jp": "イズミ",
+            "css": [
+                {
+                    "default": "izumi.css",
+                    "swimsuit": "izumi_swimsuit.css"
+                }
+            ]
+        },
+        {
+            "en": "Akari",
+            "jp": "アカリ",
+            "css": [
+                {
+                    "default": "akari.css"
+                }
+            ]
+        },
+        {
+            "en": "Fuuka",
+            "jp": "フウカ",
+            "css": [
+                {
+                    "default": "fuuka.css",
+                    "new year": "fuuka_new_year.css"
+                }
+            ]
+        },
+        {
+            "en": "Juri",
+            "jp": "ジュリ",
+            "css": [
+                {
+                    "default": "juri.css"
+                }
+            ]
+        },
+        {
+            "en": "Sena",
+            "jp": "セナ",
+            "css": [
+                {
+                    "default": "sena.css"
+                }
+            ]
+        },
+        {
+            "en": "メグ",
+            "jp": "megu",
+            "css": [
+                {
+                    "default": "megu.css"
+                }
+            ]
+        },
+        {
+            "en": "Makoto",
+            "jp": "マコト",
+            "css": [
+                {
+                    "default": "makoto.css"
+                }
+            ]
+        },
+        {
+            "en": "Satsuki",
+            "jp": "サツキ",
+            "css": [
+                {
+                    "default": "satsuki.css"
+                }
+            ]
+        },
+        {
+            "en": "Kasumi",
+            "jp": "カスミ",
+            "css": [
+                {
+                    "default": "kasumi.css"
+                }
+            ]
+        },
+        {
+            "en": "Erika",
+            "jp": "エリカ",
+            "css": [
+                {
+                    "default": "erika.css"
+                }
+            ]
+        },
+        {
+            "en": "Kirara",
+            "jp": "キララ",
+            "css": [
+                {
+                    "default": "kirara.css"
+                }
+            ]
+        },
+        {
+            "en": "",
+            "jp": "",
+            "css": [
+                {
+                    "default": ".css"
+                }
+            ]
+        }
+    ],
+    "Millennium": [
+        {
+            "en": "Yuuka",
+            "jp": "ユウカ",
+            "css": [
+                {
+                    "default": "yuuka.css",
+                    "gym": "yuuka_gym.css"
+                }
+            ]
+        },
+        {
+            "en": "Noa",
+            "jp": "ノア",
+            "css": [
+                {
+                    "default": "noa.css"
+                }
+            ]
+        },
+        {
+            "en": "Koyuki",
+            "jp": "コユキ",
+            "css": [
+                {
+                    "default": "koyuki.css"
+                }
+            ]
+        },
+        {
+            "en": "Chihiro",
+            "jp": "チヒロ",
+            "css": [
+                {
+                    "default": "chihiro.css"
+                }
+            ]
+        },
+        {
+            "en": "Maki",
+            "jp": "マキ",
+            "css": [
+                {
+                    "default": "maki.css"
+                }
+            ]
+        },
+        {
+            "en": "Hare",
+            "jp": "ハレ",
+            "css": [
+                {
+                    "default": "hare.css"
+                }
+            ]
+        },
+        {
+            "en": "Kotama",
+            "jp": "コタマ",
+            "css": [
+                {
+                    "default": "kotama.css"
+                }
+            ]
+        },
+        {
+            "en": "Neru",
+            "jp": "ネル",
+            "css": [
+                {
+                    "default": "neru.css",
+                    "bunny girl": "neru_bunny_girl.css"
+                }
+            ]
+        },
+        {
+            "en": "Karin",
+            "jp": "カリン",
+            "css": [
+                {
+                    "default": "karin.css",
+                    "bunny girl": "karin_bunny_girl.css"
+                }
+            ]
+        },
+        {
+            "en": "Akane",
+            "jp": "アカネ",
+            "css": [
+                {
+                    "default": "akane.css",
+                    "bunny girl": "akane_bunny_girl.css"
+                }
+            ]
+        },
+        {
+            "en": "Asuna",
+            "jp": "アスナ",
+            "css": [
+                {
+                    "default": "asuna.css",
+                    "bunny girl": "asuna_bunny_girl.css"
+                }
+            ]
+        },
+        {
+            "en": "Toki",
+            "jp": "トキ",
+            "css": [
+                {
+                    "default": "toki.css"
+                }
+            ]
+        },
+        {
+            "en": "Hibiki",
+            "jp": "ヒビキ",
+            "css": [
+                {
+                    "default": "hibiki.css",
+                    "cheerleader": "hibiki_cheerleader.css"
+                }
+            ]
+        },
+        {
+            "en": "Utaha",
+            "jp": "ウタハ",
+            "css": [
+                {
+                    "default": "utaha.css",
+                    "cheerleader": "utaha_cheerleader.css"
+                }
+            ]
+        },
+        {
+            "en": "Kotori",
+            "jp": "コトリ",
+            "css": [
+                {
+                    "default": "kotori.css"
+                }
+            ]
+        },
+        {
+            "en": "Sumire",
+            "jp": "スミレ",
+            "css": [
+                {
+                    "default": "sumire.css"
+                }
+            ]
+        },
+        {
+            "en": "Himari",
+            "jp": "ヒマリ",
+            "css": [
+                {
+                    "default": "himari.css"
+                }
+            ]
+        },
+        {
+            "en": "Eimi",
+            "jp": "エイミ",
+            "css": [
+                {
+                    "default": "eimi.css"
+                }
+            ]
+        },
+        {
+            "en": "Alice",
+            "jp": "アリス",
+            "css": [
+                {
+                    "default": "alice.css"
+                }
+            ]
+        },
+        {
+            "en": "Yuzu",
+            "jp": "ユズ",
+            "css": [
+                {
+                    "default": "yuzu.css"
+                }
+            ]
+        },
+        {
+            "en": "Midori",
+            "jp": "ミドリ",
+            "css": [
+                {
+                    "default": "midori.css"
+                }
+            ]
+        },
+        {
+            "en": "Momoi",
+            "jp": "モモイ",
+            "css": [
+                {
+                    "default": "momoi.css"
+                }
+            ]
+        },
+        {
+            "en": "Rio",
+            "jp": "リオ",
+            "css": [
+                {
+                    "default": "rio.css"
+                }
+            ]
+        }
+    ],
+    "Trinity": [
+        {
+            "en": "Mika",
+            "jp": "ミカ",
+            "css": [
+                {
+                    "default": "mika.css"
+                }
+            ]
+        },
+        {
+            "en": "Nagisa",
+            "jp": "ナギサ",
+            "css": [
+                {
+                    "default": "nagisa.css"
+                }
+            ]
+        },
+        {
+            "en": "kazusa",
+            "jp": "カズサ",
+            "css": [
+                {
+                    "default": "kazusa.css"
+                }
+            ]
+        },
+        {
+            "en": "Natsu",
+            "jp": "ナツ",
+            "css": [
+                {
+                    "default": "natsu.css"
+                }
+            ]
+        },
+        {
+            "en": "Airi",
+            "jp": "アイリ",
+            "css": [
+                {
+                    "default": "airi.css"
+                }
+            ]
+        },
+        {
+            "en": "Yoshimi",
+            "jp": "ヨシミ",
+            "css": [
+                {
+                    "default": "yoshimi.css"
+                }
+            ]
+        },
+        {
+            "en": "Suzumi",
+            "jp": "スズミ",
+            "css": [
+                {
+                    "default": "suzumi.css"
+                }
+            ]
+        },
+        {
+            "en": "Mashiro",
+            "jp": "マシロ",
+            "css": [
+                {
+                    "default": "mashiro.css",
+                    "swimsuit": "mashiro_swimsuit.css"
+                }
+            ]
+        },
+        {
+            "en": "Tsurugi",
+            "jp": "ツルギ",
+            "css": [
+                {
+                    "default": "tsurugi.css",
+                    "swimsuit": "tsurugi_swimsuit.css"
+                }
+            ]
+        },
+        {
+            "en": "Hasumi",
+            "jp": "ハスミ",
+            "css": [
+                {
+                    "default": "hasumi.css",
+                    "gym": "hasumi_gym.css"
+                }
+            ]
+        },
+        {
+            "en": "Mine",
+            "jp": "ミネ",
+            "css": [
+                {
+                    "default": "mine.css"
+                }
+            ]
+        },
+        {
+            "en": "Hanae",
+            "jp": "ハナエ",
+            "css": [
+                {
+                    "default": "hanae.css",
+                    "christmas": "hanae_christmas"
+                }
+            ]
+        },
+        {
+            "en": "Serina",
+            "jp": "セリナ",
+            "css": [
+                {
+                    "default": "serina.css",
+                    "christmas": "serina_christmas.css"
+                }
+            ]
+        },
+        {
+            "en": "Hifumi",
+            "jp": "ヒフミ",
+            "css": [
+                {
+                    "default": "hifumi.css",
+                    "swimsuit": "hifumi_swimsuit.css"
+                }
+            ]
+        },
+        {
+            "en": "Azusa",
+            "jp": "アズサ",
+            "css": [
+                {
+                    "default": "azusa.css",
+                    "swimsuit": "azusa_swimsuit.css"
+                }
+            ]
+        },
+        {
+            "en": "Koharu",
+            "jp": "コハル",
+            "css": [
+                {
+                    "default": "koharu.css"
+                }
+            ]
+        },
+        {
+            "en": "Hanako",
+            "jp": "ハナコ",
+            "css": [
+                {
+                    "default": "hanako.css"
+                }
+            ]
+        },
+        {
+            "en": "Ui",
+            "jp": "ウイ",
+            "css": [
+                {
+                    "default": "ui.css"
+                }
+            ]
+        },
+        {
+            "en": "Shimiko",
+            "jp": "シミコ",
+            "css": [
+                {
+                    "default": "shimiko.css"
+                }
+            ]
+        },
+        {
+            "en": "Sakurako",
+            "jp": "サクラコ",
+            "css": [
+                {
+                    "default": "sakurako.css"
+                }
+            ]
+        },
+        {
+            "en": "Mari",
+            "jp": "マリー",
+            "css": [
+                {
+                    "default": "mari.css"
+                }
+            ]
+        },
+        {
+            "en": "Hinata",
+            "jp": "ヒナタ",
+            "css": [
+                {
+                    "default": "hinata.css"
+                }
+            ]
+        },
+        {
+            "en": "Seia",
+            "jp": "セイア",
+            "css": [
+                {
+                    "default": "seia.css"
+                }
+            ]
+        },
+        {
+            "en": "Ichika",
+            "jp": "イチカ",
+            "css": [
+                {
+                    "default": "ichika.css"
+                }
+            ]
+        },
+        {
+            "en": "Reisa",
+            "jp": "レイサ",
+            "css": [
+                {
+                    "default": "reisa.css"
+                }
+            ]
+        }
+    ],
+    "Hyakkiyako": [
+        {
+            "en": "Chise",
+            "jp": "チセ",
+            "css": [
+                {
+                    "default": "chise.css"
+                }
+            ]
+        },
+        {
+            "en": "Pina",
+            "jp": "ピナ",
+            "css": [
+                {
+                    "default": "pina.css"
+                }
+            ]
+        },
+        {
+            "en": "Tsubaki",
+            "jp": "ツバキ",
+            "css": [
+                {
+                    "default": "tsubaki.css"
+                }
+            ]
+        },
+        {
+            "en": "Shizuko",
+            "jp": "シズコ",
+            "css": [
+                {
+                    "default": "shizuko.css",
+                    "swimsuit": "shizuko_swimsuit.css"
+                }
+            ]
+        },
+        {
+            "en": "Kaede",
+            "jp": "カエデ",
+            "css": [
+                {
+                    "default": "kaede.css"
+                }
+            ]
+        },
+        {
+            "en": "Michiru",
+            "jp": "ミチル",
+            "css": [
+                {
+                    "default": "michiru.css"
+                }
+            ]
+        },
+        {
+            "en": "Izuna",
+            "jp": "イズナ",
+            "css": [
+                {
+                    "default": "izuna.css",
+                    "swimsuit": "izuna_swimsuit.css"
+                }
+            ]
+        },
+        {
+            "en": "Tsukuyo",
+            "jp": "ツクヨ",
+            "css": [
+                {
+                    "default": "tsukuyo.css"
+                }
+            ]
+        },
+        {
+            "en": "Wakamo",
+            "jp": "ワカモ",
+            "css": [
+                {
+                    "default": "wakamo.css",
+                    "swimsuit": "wakamo.css"
+                }
+            ]
+        },
+        {
+            "en": "Mimori",
+            "jp": "ミモリ",
+            "css": [
+                {
+                    "default": "mimori.css"
+                }
+            ]
+        },
+        {
+            "en": "Niya",
+            "jp": "ニヤ",
+            "css": [
+                {
+                    "default": "niya.css"
+                }
+            ]
+        },
+        {
+            "en": "Kaho",
+            "jp": "カホ",
+            "css": [
+                {
+                    "default": "kaho.css"
+                }
+            ]
+        },
+        
+        {
+            "en": "Nagusa",
+            "jp": "ナグサ",
+            "css": [
+                {
+                    "default": "nagusa.css"
+                }
+            ]
+        },
+        
+        {
+            "en": "Umika",
+            "jp": "ウミカ",
+            "css": [
+                {
+                    "default": "umika.css"
+                }
+            ]
+        },
+        
+        {
+            "en": "Kuzunoha",
+            "jp": "クズノハ",
+            "css": [
+                {
+                    "default": "kuzunoha.css"
+                }
+            ]
+        }        
+    ],
+    "Shanhaijing": [
+        {
+            "en": "Shun",
+            "jp": "シュン",
+            "css": [
+                {
+                    "default": "shun.css",
+                    "young": "shun_young.css"
+                }
+            ]
+        },
+        {
+            "en": "Kokona",
+            "jp": "ココナ",
+            "css": [
+                {
+                    "default": "kokona.css"
+                }
+            ]
+        },
+        {
+            "en": "Saya",
+            "jp": "サヤ",
+            "css": [
+                {
+                    "default": "saya.css",
+                    "casual": "saya_casual.css"
+                }
+            ]
+        },
+        {
+            "en": "Kisaki",
+            "jp": "キサキ",
+            "css": [
+                {
+                    "default": "kisaki.css"
+                }
+            ]
+        },
+        {
+            "en": "Mina",
+            "jp": "ミナ",
+            "css": [
+                {
+                    "default": "mina.css"
+                }
+            ]
+        },
+        {
+            "en": "Rumi",
+            "jp": "ルミ",
+            "css": [
+                {
+                    "default": "rumi.css"
+                }
+            ]
+        }
+    ],
+    "Red Winter": [
+        {
+            "en": "Cherino",
+            "jp": "チェリノ",
+            "css": [
+                {
+                    "default": "cherino.css",
+                    "hot spring": "cherino_hot_spring.css"
+                }
+            ]
+        },
+        {
+            "en": "Tomoe",
+            "jp": "トモエ",
+            "css": [
+                {
+                    "default": "tomoe.css"
+                }
+            ]
+        },
+        {
+            "en": "Marina",
+            "jp": "マリナ",
+            "css": [
+                {
+                    "default": "marina.css"
+                }
+            ]
+        },
+        {
+            "en": "Nodoka",
+            "jp": "ノドカ",
+            "css": [
+                {
+                    "default": "nodoka.css",
+                    "hot spring": "nodoka_hot_spring.css"
+                }
+            ]
+        },
+        {
+            "en": "Shigure",
+            "jp": "シグレ",
+            "css": [
+                {
+                    "default": "shigure.css"
+                }
+            ]
+        },
+        {
+            "en": "Minori",
+            "jp": "ミノリ",
+            "css": [
+                {
+                    "default": "minori.css"
+                }
+            ]
+        },
+        {
+            "en": "Momiji",
+            "jp": "モミジ",
+            "css": [
+                {
+                    "default": "momiji.css"
+                }
+            ]
+        },
+        {
+            "en": "Meru",
+            "jp": "メル",
+            "css": [
+                {
+                    "default": "meru.css"
+                }
+            ]
+        }
+    ],
+    "Valkyrie": [
+        {
+            "en": "Kanna",
+            "jp": "カンナ",
+            "css": [
+                {
+                    "default": "kanna.css"
+                }
+            ]
+        },
+        {
+            "en": "Kirino",
+            "jp": "キリノ",
+            "css": [
+                {
+                    "default": "kirino.css"
+                }
+            ]
+        },
+        {
+            "en": "Fubuki",
+            "jp": "フブキ",
+            "css": [
+                {
+                    "default": "fubuki.css"
+                }
+            ]
+        }
+    ],
+    "SRT": [
+        {
+            "en": "Miyako",
+            "jp": "ミヤコ",
+            "css": [
+                {
+                    "default": "miyako.css"
+                }
+            ]
+        },
+        {
+            "en": "Saki",
+            "jp": "サキ",
+            "css": [
+                {
+                    "default": "saki.css"
+                }
+            ]
+        },
+        {
+            "en": "Miyu",
+            "jp": "ミユ",
+            "css": [
+                {
+                    "default": "miyu.css"
+                }
+            ]
+        },
+        {
+            "en": "Moe",
+            "jp": "モエ",
+            "css": [
+                {
+                    "default": "moe.css"
+                }
+            ]
+        },
+        {
+            "en": "Yukino",
+            "jp": "ユキノ",
+            "css": [
+                {
+                    "default": "yukino.css"
+                }
+            ]
+        },
+        
+        {
+            "en": "Niko",
+            "jp": "ニコ",
+            "css": [
+                {
+                    "default": "niko.css"
+                }
+            ]
+        },
+        
+        {
+            "en": "Otogi",
+            "jp": "オトギ",
+            "css": [
+                {
+                    "default": "otogi.css"
+                }
+            ]
+        },
+        
+        {
+            "en": "Kurumi",
+            "jp": "クルミ",
+            "css": [
+                {
+                    "default": "kurumi.css"
+                }
+            ]
+        }
+    ],
+    "ARIUS": [
+        {
+            "en": "Saori",
+            "jp": "サオリ",
+            "css": [
+                {
+                    "default": "saori.css"
+                }
+            ]
+        },
+        {
+            "en": "Misaki",
+            "jp": "ミサキ",
+            "css": [
+                {
+                    "default": "misaki.css"
+                }
+            ]
+        },
+        {
+            "en": "Hiyori",
+            "jp": "ヒヨリ",
+            "css": [
+                {
+                    "default": "hiyori.css"
+                }
+            ]
+        },
+        {
+            "en": "Atsuko",
+            "jp": "アツコ",
+            "css": [
+                {
+                    "default": "atsuko.css"
+                }
+            ]
+        }
+    ],
+    "Kronos": [
+        {
+            "en": "Mai",
+            "jp": "マイ",
+            "css": [
+                {
+                    "default": "mai.css"
+                }
+            ]
+        },
+        {
+            "en": "Shinon",
+            "jp": "シノン",
+            "css": [
+                {
+                    "default": "shinon.css"
+                }
+            ]
+        }
+    ],
+    "Prime Student Council": [
+        {
+            "en": "Rin",
+            "jp": "リン",
+            "css": [
+                {
+                    "default": "rin.css"
+                }
+            ]
+        },
+        {
+            "en": "Momoka",
+            "jp": "モモカ",
+            "css": [
+                {
+                    "default": "momoka.css"
+                }
+            ]
+        },
+        {
+            "en": "Kaya",
+            "jp": "カヤ",
+            "css": [
+                {
+                    "default": "kaya.css"
+                }
+            ]
+        },
+        {
+            "en": "Ayumu",
+            "jp": "アユム",
+            "css": [
+                {
+                    "default": "ayumu.css"
+                }
+            ]
+        },
+        {
+            "en": "Aoi",
+            "jp": "アオイ",
+            "css": [
+                {
+                    "default": "aoi.css"
+                }
+            ]
+        }
+    ],
+    "Gematria": [
+        {
+            "en": "Beatrice",
+            "jp": "ベアトリーチェ",
+            "css": [
+                {
+                    "default": "beatrice.css"
+                }
+            ]
+        },
+        {
+            "en": "Black Suit",
+            "jp": "黒服",
+            "css": [
+                {
+                    "default": "black_Suit.css"
+                }
+            ]
+        },
+        {
+            "en": "Golconde&Decalcomanie",
+            "jp": "ゴルコンダ&デカルコマニー",
+            "css": [
+                {
+                    "default": "golconde_Decalcomanie.css"
+                }
+            ]
+        },
+        {
+            "en": "Maestro",
+            "jp": "マエストロ",
+            "css": [
+                {
+                    "default": "maestro.css"
+                }
+            ]
+        }
+    ],
+    "Kivotos": [
+        {
+            "en": "Arona",
+            "jp": "アロナ",
+            "css": [
+                {
+                    "default": "arona.css"
+                }
+            ]
+        },
+        {
+            "en": "Prana",
+            "jp": "プラナ",
+            "css": [
+                {
+                    "default": "prana.css"
+                }
+            ]
+        },
+        {
+            "en": "Sora",
+            "jp": "ソラ",
+            "css": [
+                {
+                    "default": "sora.css"
+                }
+            ]
+        }
+        
+    ],
+    "Other": [
+        {
+            "en": "Sensei",
+            "jp": "先生",
+            "css": [
+                {
+                    "default": "sensei.css"
+                }
+            ]
+        },
+        {
+            "en": "Phrenapates",
+            "jp": "プラナパテス",
+            "css": [
+                {
+                    "default": "phrenapates.css"
+                }
+            ]
+        },
+        {
+            "en": "Miku",
+            "jp": "ミク",
+            "css": [
+                {
+                    "default": "miku.css"
+                }
+            ]
+        },
+        {
+            "en": "Kuroko",
+            "jp": "クロコ",
+            "css": [
+                {
+                    "default": "kuroko.css"
+                }
+            ]
+        }
+    ]
+}
