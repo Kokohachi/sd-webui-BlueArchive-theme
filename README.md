@@ -22,3 +22,8 @@ Hasn`t been released yet.
 - Arius (アリウス分校)
 - Federal characters Council (連邦生徒会)
 - Shan hai jing (山海経高級中学校)
+- Gematria (ゲマトリア)
+- Arona & Plana (アロナ・プラナ)
+- Sensei (先生)
+- Sora (ソラ)
+- Phrenapates (プラナパテス)

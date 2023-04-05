@@ -1,8 +1,8 @@
 import json
 import os
 
-student_info = json.loads(open("characters/student_info.json", "r", encoding="utf-8").read())
-schools = student_info.keys()
+character_info = json.loads(open("characters/character_info.json", "r", encoding="utf-8").read())
+schools = character_info.keys()
 
 for school in schools:
     print(f"[+] Creating directory for {school}")
@@ -14,7 +14,7 @@ for school in schools:
         pass
     with open("assets/" + school + "/.gitkeep", "w") as f:
         pass
-    characters = student_info[school]
+    characters = character_info[school]
     for student in characters:
         name = student["en"]
         print(f"[+] Creating directory for {name}")
