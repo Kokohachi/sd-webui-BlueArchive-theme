@@ -1,3 +1,4 @@
+English | [日本語](README.ja.md)
 # sd-webui-BlueArchive-theme
 
 ## ⚠️Project still in development and has nothing
@@ -29,4 +30,8 @@ Hasn't been released yet.
 - Arona & Plana (アロナ・プラナ)
 - Sensei (先生)
 - Sora (ソラ)
-- Phrenapates (プラナパテス)
+- Phrenapates (プレナパテス)
+
+## Other
+
+If you are interested in development, please join the Discord server [here](https://discord.gg/ai-jp) and join the thread "sd-webui-BlueArchive-theme" in the #技術トーク channel. We are waiting for you!
