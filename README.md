@@ -8,7 +8,7 @@ This is a project to change the design of [stable-diffusion-webui](https://githu
 
 ## Usage
 
-Hasn`t been released yet.
+Hasn't been released yet.
 
 ## Themes to be provided
 
