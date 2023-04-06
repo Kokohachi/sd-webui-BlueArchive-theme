@@ -5,7 +5,7 @@
 
 ## About This Project
 
-このプロジェクトは、[stable-diffusion-webui](https:// github.com/AUTOMATIC1111/stable-diffusion-webui)のデザインを[ブルーアーカイブ](https://bluearchive.jp/)デザインのテーマに変更するプロジェクトです。このプロジェクトは、[ここはち](https://github.com/Kokohachi)と[Ftps](https://github.com/Tps-F)の2人のファンによって[AIものづくり研究会](https://discord.gg/ai-jp)から始まりました。
+このプロジェクトは、[stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)のデザインを[ブルーアーカイブ](https://bluearchive.jp/)デザインのテーマに変更するプロジェクトです。このプロジェクトは、[ここはち](https://github.com/Kokohachi)と[Ftps](https://github.com/Tps-F)の2人のファンによって[AIものづくり研究会](https://discord.gg/ai-jp)から始まりました。
 
 ## Usage
 
