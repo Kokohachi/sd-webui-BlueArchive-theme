@@ -4,7 +4,7 @@
 
 ## About This Project
 
-This is a project to change the design of [stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) to a [BlueArchive](https://bluearchive.jp/) designed theme started by two fans, [Kokohachi](https://github.com/Kokohachi) and [Ftps](https://github.com/Tps-F), plus [AI Creators Society](https://discord.gg/ai-jp).
+This is a project to change the design of [stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) to a [Blue Archive](https://bluearchive.jp/) designed theme started by two fans, [Kokohachi](https://github.com/Kokohachi) and [Ftps](https://github.com/Tps-F), with the help of [AI Creators Society](https://discord.gg/ai-jp).
 
 ## Usage
 
