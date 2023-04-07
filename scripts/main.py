@@ -104,7 +104,7 @@ def on_ui_tabs():
             outputs=status
         )
 
-    return [(bluearchive, "Bluearchive Theme", "bluearchive_theme")]
+    return [(bluearchive, "BlueArchive Theme", "bluearchive_theme")]
 
 
 script_callbacks.on_ui_tabs(on_ui_tabs)
