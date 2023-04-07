@@ -2,7 +2,7 @@ import json
 
 import gradio as gr
 
-from modules import script_callbacks
+from modules import script_callbacks, shared
 import modules.scripts as scripts
 
 
@@ -40,7 +40,13 @@ def update_costume(characters):
 
 
 def replace_css(costume):
-    return "Change Applied! Please restart webui"
+    pass
+
+
+def apply_change(costume):
+    replace_css(costume)
+    shared.state.interrupt()
+    shared.state.need_restart = True
 
 
 class Script(scripts.Script):
@@ -83,10 +89,6 @@ def on_ui_tabs():
                 visible=False
             )
             apply_theme = gr.Button("Apply Theme", variant="primary")
-            status = gr.Textbox(
-                label="Status",
-                interactive=False
-            )
 
         school.change(
             fn=update_characters,
@@ -99,9 +101,9 @@ def on_ui_tabs():
             outputs=costume
         )
         apply_theme.click(
-            fn=replace_css,
-            inputs=costume,
-            outputs=status
+            fn=apply_change,
+            _js="extensions_apply",
+            inputs=costume
         )
 
     return [(bluearchive, "Bluearchive Theme", "bluearchive_theme")]
