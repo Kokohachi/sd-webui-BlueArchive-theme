@@ -209,8 +209,8 @@
             ]
         },
         {
-            "en": "メグ",
-            "jp": "megu",
+            "en": "Megu",
+            "jp": "メグ",
             "css": [
                 {
                     "default": "megu.css"
@@ -259,15 +259,6 @@
             "css": [
                 {
                     "default": "kirara.css"
-                }
-            ]
-        },
-        {
-            "en": "",
-            "jp": "",
-            "css": [
-                {
-                    "default": ".css"
                 }
             ]
         }
