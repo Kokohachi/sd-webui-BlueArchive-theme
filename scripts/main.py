@@ -40,7 +40,7 @@ def update_costume(characters):
 
 
 def replace_css(costume):
-    return "Finish! Please restart webui"
+    return "Change Applied! Please restart webui"
 
 
 class Script(scripts.Script):
@@ -48,7 +48,7 @@ class Script(scripts.Script):
         super().__init__()
 
     def title(self):
-        return "BLIP2"
+        return "BlueArchive Theme"
 
     def show(self, is_img2img):
         return scripts.AlwaysVisible
@@ -104,7 +104,7 @@ def on_ui_tabs():
             outputs=status
         )
 
-    return [(bluearchive, "Bluearchive Theme", "bluearchive theme")]
+    return [(bluearchive, "Bluearchive Theme", "bluearchive_theme")]
 
 
 script_callbacks.on_ui_tabs(on_ui_tabs)
