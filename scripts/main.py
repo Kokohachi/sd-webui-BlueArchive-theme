@@ -16,7 +16,7 @@ def load_data(file_name: str = f"{scripts.basedir()}/characters/character_info.j
     return data
 
 
-def analysis_json():
+def analyse_json():
     data = load_data()
     school_list = []
     for school in list(data.keys()):
@@ -58,7 +58,7 @@ class Script(scripts.Script):
 
 
 def on_ui_tabs():
-    school_list = analysis_json()
+    school_list = analyse_json()
     with gr.Blocks(analytics_enabled=False) as bluearchive:
         with gr.Column():
             """
